@@ -1,5 +1,5 @@
-ansible==1.9.4 \
-    --hash=sha256:972c2face49f1577bd0ff7989440bfe2820e66fb10d7579915cc536bccfa6fe3
+ansible==2.9.20 \
+    --hash=sha256:73a271b9b2081a254deaa7347583d8bd97142b67c891e463ff2302006c5c8c38
 
 ecdsa==0.13 \
     --hash=sha256:40d002cf360d0e035cf2cb985e1308d41aaa087cbfc135b2dc2d844296ea546c
