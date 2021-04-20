@@ -137,8 +137,9 @@ Pillow==2.7.0 \
 pillowfight==0.2 \
     --hash=sha256:15bce1925a3d66940ceb9a33c3c55de8d95462ce136c4d46e8673f2919b401d6
 
-py==1.4.31 \
-    --hash=sha256:4a3e4f3000c123835ac39cab5ccc510642153bc47bc1f13e2bbb53039540ae69
+py==1.10.0 \
+    --hash=sha256:3b80836aa6d1feeaa108e046da6423ab8f6ceda6468545ae8d02d9d58d18818a \
+    --hash=sha256:21b81bda15b66ef5e1a777a21c4dcd9c20ad3efd0b3f817e7a809035269e1bd3
 
 pyasn1==0.1.9 \
     --hash=sha256:28fee44217991cfad9e6a0b9f7e3f26041e21ebc96629e94e585ccd05d49fa65
