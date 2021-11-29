@@ -164,8 +164,8 @@ pytest-django==2.9.1 \
 python-hglib==1.7 \
     --hash=sha256:0dc087d15b774cda82d3c8096fb0e514caeb2ddb60eed38e9056b16e279ba3c5
 
-python-ldap==2.4.19 \
-    --hash=sha256:02fddb3accbfb54e40ff47a59457e422b253f9fb6cd64bb3851b349295fab048
+python-ldap==3.4.0 \
+    --hash=sha256:60464c8fc25e71e0fd40449a24eae482dcd0fb7fcf823e7de627a6525b3e0d12
 
 python-memcached==1.54 \
     --hash=sha256:67e1c18b6b99ca4c2c8e4a02e0a96174bf7068919a5aff52836600974c1ef4d8
