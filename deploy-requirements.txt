@@ -43,8 +43,9 @@ mozinfo==0.7 \
 mozprocess==0.22 \
     --hash=sha256:2d56e015a3594f06130e8c015f7ca87f3f8d83d9c4bf54588f077ce9bad9a08b
 
-paramiko==1.16.0 \
-    --hash=sha256:4ea4b9dd79beabd0301277a26d5e8b54ab8f41ed12414a35f1e00ae08cf06127
+paramiko==2.10.1 \
+    --hash=sha256:443f4da23ec24e9a9c0ea54017829c282abdda1d57110bf229360775ccd27a31 \
+    --hash=sha256:f6cbd3e1204abfdbcd40b3ecbc9d32f04027cd3080fe666245e21e7540ccfc1b
 
 PyYAML==3.11 \
     --hash=sha256:c36c938a872e5ff494938b33b14aaa156cb439ec67548fcab3535bb78b0846e8 \
