@@ -59,8 +59,9 @@ python-dateutil==2.5.3 \
 s3transfer==0.1.9 \
     --hash=sha256:17114f393101a6c4a49318429b9facede6183ec52fd14ca54e09aa496da56fbc
 
-setuptools==20.8.1 \
-    --hash=sha256:d5bbc1929feeaa81233bdadc0c720d35ac27a3ca7a1f9641f632af822419114d
+setuptools==65.5.1 \
+    --hash=sha256:d0b9a8433464d5800cbe05094acf5c6d52a91bfac9b52bcfc4d41382be5d5d31 \
+    --hash=sha256:e197a19aa8ec9722928f2206f8de752def0e4c9fc6953527360d1c36d94ddb2f
 
 six==1.10.0 \
     --hash=sha256:0ff78c403d9bccf5a425a6d31a12aa6b47f1c21ca4dc2573a7e2f32a97335eb1
