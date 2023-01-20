@@ -104,8 +104,9 @@ Markdown==2.4.1 \
 mccabe==0.3.1 \
     --hash=sha256:bd6c080fb372aebcb0ce19e35ddac744f2abf5a7befa207db2d1097d48efe63a
 
-mechanize==0.2.5 \
-    --hash=sha256:2e67b20d107b30c00ad814891a095048c35d9d8cb9541801cebe85684cc84766
+mechanize==0.4.6 \
+    --hash=sha256:c5e416032ae84e3b031fb3d14d9069f846af46155750d3d48f68c7cf5cc3d9e9 \
+    --hash=sha256:d16cea241253b5eb6380bf8a46627cad91d1f2c3f93a33279a31ce276d6c5d44
 
 mimeparse==0.1.3 \
     --hash=sha256:534ff6feefe1cd03984f444e6415aacc79c0a85f3b868ec41a2fd5003004c31e
