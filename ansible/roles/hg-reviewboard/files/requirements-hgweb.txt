@@ -9,8 +9,9 @@ Mercurial==4.0.1 \
 mod-wsgi==4.4.11 \
     --hash=sha256:7dd9540db9797f2a5b491eaff6344643050553ebcbb62f775762cbe3a0343c25
 
-Pygments==2.1.1 \
-    --hash=sha256:05aee25c433d6155defbfbcb6c2e2b0ebf29d28138604867b62a304bd6bbb41d
+Pygments==2.15.0 \
+    --hash=sha256:77a3299119af881904cd5ecd1ac6a66214b6e9bed1f2db16993b54adede64094 \
+    --hash=sha256:f7e36cffc4c517fbc252861b9a6e4644ca0e5abadf9a113c72d1358ad09b9500
 
 python-ldap==2.4.20 \
     --hash=sha256:4b8891539a3171d993cf7896b632ff088a4c707ae85ac3c77db1454f7949f3e2
